@@ -71,3 +71,7 @@ function classificaSenha() {
         forcaSenha.classList.add('fraca');
     }
 }
+
+
+
+
